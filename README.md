@@ -1,4 +1,4 @@
-## Hi! :raised_hand: My name is Sergey. I'm a newbie Front-end developer :computer:
+## Hi! :raised_hand: My name is Sergei. I'm a newbie Front-end developer :computer:
 
 :round_pushpin: I started **my journey into the web world** way back in **2009.** At that time, **WordPress** was picking up steam in Russia. I was setting up WordPress for clients, tweaking plugins, planning out the structure, filling websites with content, and promoting articles.
 
